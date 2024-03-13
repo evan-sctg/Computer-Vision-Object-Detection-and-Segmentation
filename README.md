@@ -39,19 +39,19 @@ The evaluation script, `eval.py`, performs the following tasks:
 ## Usage
 
 1. Run the training script:
-python train.py
+`python train.py`
 
 
 
 2. During training, TensorBoard logs will be saved to the `runs/PennFudanPed` directory. You can visualize the training progress using TensorBoard:
-tensorboard --logdir=runs
+`tensorboard --logdir=runs`
 
 
 
-3. After training, the model weights will be saved as `model.pth`.
+4. After training, the model weights will be saved as `model.pth`.
 
-4. Run the evaluation script on a test image and display the output with bounding boxes and segmentation masks. You can visualize the output using TensorBoard:
-python eval.py
+5. Run the evaluation script on a test image and display the output with bounding boxes and segmentation masks. You can visualize the output using TensorBoard:
+`python eval.py`
 
 ## Customization
 
