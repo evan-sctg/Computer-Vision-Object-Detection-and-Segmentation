@@ -13,7 +13,7 @@ This project demonstrates object detection and instance segmentation with a Mask
 
 The training script, `train.py`, performs the following tasks:
 
-1. **Data Preparation**: Loads and prepares the Pedestrian Dataset for training and evaluation.
+1. **Data Preparation**: Loads and prepares the pedestrian dataset for training and evaluation.
 2. **Model Customization**: Customizes the head of a pre-trained Mask R-CNN model for the specific number of classes in the dataset.
 3. **Training**: Trains the customized Mask R-CNN model using the prepared dataset.
 
