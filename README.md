@@ -61,6 +61,7 @@ You can customize the project to suit your needs by modifying the `train.py` or 
 - Modify the hyperparameters (e.g., learning rate, batch size)
 - Experiment with different data augmentation techniques
 - Modify the Confidence Threshold
+- Detect Partially-Occluded Objects
 - Integrate additional evaluation metrics
 
 
