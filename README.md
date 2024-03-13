@@ -7,7 +7,7 @@ Computer Vision Object Detection and Segmentation using Pytorch, TorchVision, Te
 This project demonstrates object detection and instance segmentation on the Penn-Fudan Pedestrian Database using PyTorch and TorchVision. It fine-tunes a pre-trained Mask R-CNN model on the Penn-Fudan dataset, which contains 170 images with 345 instances of pedestrians.
 
 
-![alt text](https://github.com/evan-sctg/Computer-Vision-Object-Detection-and-Segmentation/blob/master/pedestrians.png?raw=true)
+![alt text](https://github.com/evan-sctg/Computer-Vision-Object-Detection-and-Segmentation/blob/main/pedestrians.png?raw=true)
 
 ## Overview
 
