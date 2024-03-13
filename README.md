@@ -63,9 +63,6 @@ You can customize the project to suit your needs by modifying the `train.py` or 
 - Modify the Confidence Threshold
 - Integrate additional evaluation metrics
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
